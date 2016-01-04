@@ -7,5 +7,7 @@ public class HelloWorld {
         System.out.println("Branch1");
 
         System.out.println("hot fix");
+
+        System.out.println("hot fix2");
     }
 }
