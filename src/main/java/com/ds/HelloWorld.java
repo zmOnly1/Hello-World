@@ -9,5 +9,7 @@ public class HelloWorld {
         System.out.println("hot fix");
 
         System.out.println("add branch2");
+
+        System.out.println("branch hotfix1");
     }
 }
