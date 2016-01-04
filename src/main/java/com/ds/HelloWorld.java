@@ -13,9 +13,5 @@ public class HelloWorld {
         System.out.println("branch hotfix1");
 
         System.out.println("branch fix hotfix1");
-
-        System.out.println("branch fix hotfix2");
-
-        System.out.println("branch fix hotfix3");
     }
 }
