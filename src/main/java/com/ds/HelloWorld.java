@@ -7,5 +7,15 @@ public class HelloWorld {
         System.out.println("Branch1");
 
         System.out.println("hot fix");
+
+        System.out.println("add branch2");
+
+        System.out.println("branch hotfix1");
+
+        System.out.println("branch fix hotfix1");
+
+        System.out.println("branch fix hotfix2");
+
+        System.out.println("branch fix hotfix3");
     }
 }
