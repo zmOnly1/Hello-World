@@ -11,5 +11,7 @@ public class HelloWorld {
         System.out.println("add branch2");
 
         System.out.println("branch hotfix1");
+
+        System.out.println("branch fix hotfix1");
     }
 }
