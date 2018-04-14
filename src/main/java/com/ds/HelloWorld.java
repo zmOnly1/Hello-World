@@ -14,6 +14,5 @@ public class HelloWorld {
 
         System.out.println("branch fix hotfix1");
 
-        System.out.println("reverse1");
     }
 }
