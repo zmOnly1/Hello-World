@@ -1,7 +1,5 @@
 package com.ds;
 
-import javax.xml.bind.SchemaOutputResolver;
-
 public class HelloWorld {
 
     public static void main(String[] args) {
@@ -19,8 +17,6 @@ public class HelloWorld {
         System.out.println("reverse3");
 
         System.out.println("reverse4");
-
-        System.out.println("revert5");
 
     }
 }
