@@ -18,5 +18,7 @@ public class HelloWorld {
 
         System.out.println("reverse4");
 
+        System.out.println("commit 1");
+
     }
 }
